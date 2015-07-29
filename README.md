@@ -1,2 +1,2 @@
-# xeno42
-odd tasks
+# exercises
+odd tasks for learning and amusement
